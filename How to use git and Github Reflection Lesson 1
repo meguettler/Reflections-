@@ -1,0 +1,15 @@
+using Diff made finding the mistake that the person made much 
+quicker and easier then when you manually had to do it and 
+ it saved me a lot of time. 
+
+Being able to look at all the previous history of something you are working on can be useful and can truly save a lot of time. I think it's cool you can do that but also it seems kind of creepy that you can look at everything someone has done. 
+
+Some pros on manually choosing when you want to commit is that you can choose how you want to organize you changes and you can get a clearer picture if you want to look at your commits.Some cons though could be that you forget about committing and then when you do commit it's a huge file. 
+
+I think that Git allows for saving multiple files in one c
+
+you can use the commands git log and git diff to first of all view all the commits git saved and then to look at the diff between two commits and can see what you changed or added.
+
+using version control might make you more confident to make changes that could break something because it lets you learn from your mistakes and become more confident in programming for you know that if you make a mistake you can easily figure out what mistake you made. 
+
+I want to start using Git for discovering what the things are i changed in my code and see where i went wrong.
