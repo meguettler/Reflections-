@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
 You may want to pull changes manually rather than having Git automatically stay up to date because you might not want the commits that someone your working with posted on the project your working on in your local since you may have your own idea and don't want the other person's commit that he added to the project. 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 To fork means that you fork a series of commits from a repository so that you can add commits to the repository without adding it to the authors actual repository to clone means you clone the repository which you can use when you want to add the repository you forked into you local and branches is the branches in your repository that you want to use if you have a bunch of different things that you are using in your repository that all comes together into one project. 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can look at it whenever without it changing. So you can see what it used to look like. 
