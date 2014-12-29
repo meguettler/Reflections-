@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+I would want to create a remote repository rather than keeping all your work local if I'm working with other people so that they can see what commits I have made without having to sit right next to me to see what commits I have made. 
