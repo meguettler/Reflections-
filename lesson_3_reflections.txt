@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you use
 To fork means that you fork a series of commits from a repository so that you can add commits to the repository without adding it to the authors actual repository to clone means you clone the repository which you can use when you want to add the repository you forked into you local and branches is the branches in your repository that you want to use if you have a bunch of different things that you are using in your repository that all comes together into one project. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can look at it whenever without it changing. So you can see what it used to look like. 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would have to send messages to each other and it would be a lot harder and take a lot more time.
