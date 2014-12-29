@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
 You can look at it whenever without it changing. So you can see what it used to look like. 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would have to send messages to each other and it would be a lot harder and take a lot more time.
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If you first want to see if the code inside this branch works well, and later on you can add it to your master branch while if you do it directly in mster then you can't decide if you really want it or not.  
